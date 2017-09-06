@@ -1,0 +1,8 @@
+prefix=/home/cartis/workspace/catkin_ws/install
+
+Name: joy_twist
+Description: Description of joy_twist
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/cartis/workspace/catkin_ws/install/lib 
+Requires: geometry_msgs roscpp sensor_msgs

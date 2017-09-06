@@ -1,0 +1,2 @@
+icart_pkg:joy_twist:rsj_robot_test:ypspur_ros
+-DCATKIN_DEVEL_PREFIX=/home/cartis/workspace/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cartis/workspace/catkin_ws/install -G Unix Makefiles
