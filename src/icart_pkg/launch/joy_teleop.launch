@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="joy" type="joy_node" name="joy">
+  </node>
+  <node pkg="icart_pkg" type="my_joystick" name="joystick" output="screen">
+  </node>
+</launch>
